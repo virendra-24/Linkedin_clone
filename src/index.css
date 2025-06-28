@@ -1,0 +1,21 @@
+/* src/styles/index.css */
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
+
+/* Custom styles */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* LinkedIn colors */
+.bg-linkedin-blue {
+  background-color: #0a66c2;
+}
+
+.text-linkedin-blue {
+  color: #0a66c2;
+}
+
+.border-linkedin-blue {
+  border-color: #0a66c2;
+}
